@@ -1,0 +1,6 @@
+ID,STATUS,NAME,PRICE,DURATION_Mon,MIN_REQ_MILES,MIN_REQ_SEG,DESC
+P010,PLATINIUM,Sky Miles,10000,12,25000,30,"""The program is convenient for frequent flyers that live close to the Delta hubs of Atlanta, Detroit, Los Angeles, Minneapolis, Seattle, and New York City"""
+P011,PLATINIUM,Flying Blue,15000,14,35000,,"""Loyalty Programme"""
+P012,PLATINIUM,MilesSmiles,12000,12,25000,,"""Award tickets, cabin upgrades and extra baggage allowance"""
+P002,GOLD,MilesSmiles,12000,12,25000,,"""Award tickets, cabin upgrades and extra baggage allowance"""
+P003,TITANIUM,Sky Pass,9000,12,50000,40,"""Discount on ticket extra charges"""

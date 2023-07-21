@@ -1,0 +1,9 @@
+ID,SEVERITY,OCCURRANCE,DESC
+C0001,LOW,On-Board,"""Burned Food"""
+C0002,MEDIUM,Pre-Flight,"""Delay 15 mins"""
+C0003,HIGH,Post-Flight,"""Lost baggage"""
+C0004,MEDIUM,Post-Flight,"""Car agency delay"""
+C0005,HIGH,Pre-Flight,"""Long overnight stay"""
+C0006,HIGH,On-Board,"""Cabin Cleanliness"""
+C0007,MEDIUM,On-Board,"""Uncomfortable Seats"""
+C0008,HIGH,ALL,"""Bad Customer Service"""
